@@ -3,7 +3,7 @@
   "mcp": {
     "opencode-session-memory": {
       "type": "local",
-      "command": ["node", "/Users/denisjannot/Documents/ai/opencode-memory/dist/mcp/index.js"]
+      "command": ["node", "/Users/denisjannot/.npm/_npx/b16f3f13f44104aa/node_modules/opencode-session-memory/dist/mcp/index.js"]
     }
   }
 }
